@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 36feb9992f7611349b70b8c5267c8ad3, type: 3}
+  m_Name: DemonBatData
+  m_EditorClassIdentifier: Assembly-CSharp::EnemyData
+  enemyName: DemonBat
+  maxHealth: 50
+  moveSpeed: 5
+  damage: 1
+  attackRange: 1
+  attackCooldown: 1
+  knockBackforce: 5
+  idleClip: {fileID: 7400000, guid: f73087a7dba9a624aaa3e37b6d6093ba, type: 2}
+  moveClip: {fileID: 7400000, guid: bf816947ae789dc4e80dcda29fd98d6d, type: 2}
+  attackClip: {fileID: 7400000, guid: 4515a637a4d4ce6468a2a6acd00c4e6e, type: 2}
+  hurtClip: {fileID: 7400000, guid: cfc27fc7061066741a2a717f81a64318, type: 2}
+  dieClip: {fileID: 7400000, guid: ba4cf8cdc0ef6a243875a5e71965fea4, type: 2}
