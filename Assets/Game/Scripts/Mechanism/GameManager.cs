@@ -142,10 +142,10 @@ public class GameManager : MonoBehaviour
         SceneManager.LoadScene(SceneManager.GetActiveScene().buildIndex);
     }
 
-    public void LoadMainMenu(string mainMenuSceneName = "MainMenu")
+    public void LoadMainMenu()
     {
         Time.timeScale = 1f; // Ensure the game is unpaused before loading main menu
-        SceneManager.LoadScene(mainMenuSceneName); // Replace with your main menu scene name
+        SceneManager.LoadScene((int)SceneIndex.MainMenu); // Replace with your main menu scene name
     }
     #endregion
 
