@@ -80,8 +80,8 @@ SpriteRenderer:
   m_AutoUVMaxAngle: 89
   m_LightmapParameters: {fileID: 0}
   m_GlobalIlluminationMeshLod: 0
-  m_SortingLayerID: 1061320535
-  m_SortingLayer: 2
+  m_SortingLayerID: -454929101
+  m_SortingLayer: 4
   m_SortingOrder: 0
   m_MaskInteraction: 0
   m_Sprite: {fileID: -1945733415692946004, guid: 2fc809b0cf8ef5e4aa2774bb2b7b6776, type: 3}
@@ -106,9 +106,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 19a05cff3dccc7344b4d4697eb13280a, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Projectile
-  _enemyLayer:
-    serializedVersion: 2
-    m_Bits: 64
 --- !u!70 &1277543606502411713
 CapsuleCollider2D:
   m_ObjectHideFlags: 0

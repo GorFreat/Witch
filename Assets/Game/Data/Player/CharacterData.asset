@@ -14,7 +14,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::CharacterDataSO
   characterName: Witch
   characterIcon: {fileID: 0}
-  starterSkill: {fileID: 11400000, guid: d0ad4ede36b94bc44ab0ba90dcd24332, type: 2}
+  starterSkill: {fileID: 11400000, guid: a2358c836ee9f32418d488123243416f, type: 2}
   baseMight: 1
   baseCooldownReduction: 0
   baseArea: 1

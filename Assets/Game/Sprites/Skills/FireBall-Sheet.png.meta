@@ -125,10 +125,10 @@ TextureImporter:
       name: FireBall-Sheet_0
       rect:
         serializedVersion: 2
-        x: 3
-        y: 9
-        width: 48
-        height: 42
+        x: 4
+        y: 10
+        width: 47
+        height: 40
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -169,10 +169,10 @@ TextureImporter:
       name: FireBall-Sheet_2
       rect:
         serializedVersion: 2
-        x: 130
-        y: 9
-        width: 48
-        height: 42
+        x: 131
+        y: 10
+        width: 46
+        height: 40
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
